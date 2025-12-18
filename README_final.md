@@ -24,4 +24,4 @@ The application will work immediately without any additional setup.
 
 ## Repository Contents
 
-- `__CSCI_210_Final_Project_RPS.ipynb` - Main application (run this in Colab)
+- `__CSCI_210_Final_Project_RPS.ipynb` - Main application
