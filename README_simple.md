@@ -22,12 +22,8 @@ The application will work immediately without any additional setup.
 - Winner retention
 - Multi-player tracking (5+ unique players)
 
-## Demo
-
-[Watch Demo Video](./demo_video.mp4)
 
 ## Repository Contents
 
-- `RPS_Tournament.ipynb` - Main application (run this in Colab)
-- `demo_video.mp4` - Demonstration video
-- `Anderson_Final_Project.docx` - Complete project documentation
+- `.ipynb` - Main application (run this in Colab)
+
