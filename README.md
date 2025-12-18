@@ -1,2 +1,2 @@
 # rps-tournament
-Rock-Paper -cissors Tournament - CSCI 210 Final Project
+Rock-Paper-Scissors Tournament - CSCI 210 Final Project
